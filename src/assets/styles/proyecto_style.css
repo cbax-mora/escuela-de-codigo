@@ -289,3 +289,15 @@ h1 {
     justify-content: space-around;
 }
 
+ .contactos{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .footer1{
+    text-align: center;
+ }
